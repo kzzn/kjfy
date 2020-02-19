@@ -22,7 +22,7 @@
 ### 流程图
 ![流程图](https://github.com/kzzn/kjfy/blob/master/demoimgs/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ### 微信小程序二维码
-![微信小程序二维码](<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/wxcode.jpg" width="180px"/>)
+<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/wxcode.jpg" width="180px"/>
 ### 支付宝小程序二维码
 ![支付宝小程序二维码](<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/alqrcode.jpg" style="width:180px" />)
 
