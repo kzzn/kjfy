@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index",
+    "pages/login",
+    "pages/main/shareApp",
+    "pages/main/addOwner",
+    "pages/main/manager",
+    "pages/main/rooms",
+    "pages/main/register",
+    "pages/notice/article",
+    "pages/main/viewRegister",
+    "pages/main/records",
+    "pages/notice/ads",
+    "pages/setting/updatepwd",
+    "pages/notice/webview",
+    "pages/main/addAffair",
+    "pages/affair/affair",
+    "pages/main/addFamily",
+    "pages/register/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "defaultTitle": "",
+    "titleBarColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "transparentTitle": "always",
+    "allowsBounceVertical": "NO"
+  },
+  "usingComponents": {
+    "messagepage": "/components/affair",
+    "settingpage": "/components/setting",
+    "noticepage": "/components/notice",
+    "warnpage": "/components/warn",
+    "mainpage": "/components/main",
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

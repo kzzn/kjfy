@@ -1,0 +1,11 @@
+{
+  "pullRefresh": true,
+  "usingComponents": {
+    "mainpage": "/components/main",
+    "warnpage": "/components/warn",
+    "messagepage": "/components/affair",
+    "noticepage": "/components/notice",
+    "settingpage": "/components/setting",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

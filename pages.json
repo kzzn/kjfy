@@ -1,0 +1,98 @@
+{
+	"pages": [
+		{
+			"path": "pages/index",
+			"style": {
+				 "enablePullDownRefresh": true,
+				 "disableScroll":true
+				 
+			}
+		},
+		{
+			"path": "pages/login",
+			"style" : {
+			}
+		} 
+        ,{
+            "path" : "pages/main/shareApp",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/main/addOwner",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/main/manager",
+            "style" : {
+				 "disableScroll":true
+			}
+        }
+        ,{
+            "path" : "pages/main/rooms",
+            "style" : {
+				"enablePullDownRefresh": true,
+				 "disableScroll":true
+			}
+        }
+        ,{
+            "path" : "pages/main/register",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/notice/article",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/main/viewRegister",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/main/records",
+            "style" : {
+				"enablePullDownRefresh": true
+			}
+        }
+        ,{
+            "path" : "pages/notice/ads",
+            "style" : {}
+        } 
+        ,{
+            "path" : "pages/setting/updatepwd",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/notice/webview",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/main/addAffair",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/affair/affair",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/main/addFamily",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/register/index",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"mp-alipay": {
+			/* 支付宝小程序特有相关 */
+			"transparentTitle": "always",
+			"allowsBounceVertical": "NO"
+		},
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle": "custom"
+	},
+	"usingComponts": true
+		
+}

@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "cu-custom": "/colorui/components/cu-custom",
+    "uni-fab": "/components/uni-fab/uni-fab"
+  },
+  "component": true
+}

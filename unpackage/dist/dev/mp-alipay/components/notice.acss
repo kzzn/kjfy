@@ -1,0 +1,13 @@
+
+.cu-card.article>.cu-item .content>uni-image{
+	width: 65px;
+	height: 65px;
+}
+.cu-card.article > .cu-item .content > image{
+	width: 65px;
+	height: 65px;
+}
+.cu-card.article>.cu-item .content .text-content{
+	height: 65px;
+}
+

@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index",
+    "pages/login",
+    "pages/notice/index",
+    "pages/warn/index",
+    "pages/main/index",
+    "pages/main/shareApp",
+    "pages/main/addOwner",
+    "pages/main/manager",
+    "pages/main/rooms",
+    "pages/main/register",
+    "pages/notice/article",
+    "pages/main/viewRegister",
+    "pages/main/records",
+    "pages/notice/ads",
+    "pages/setting/index",
+    "pages/setting/updatepwd",
+    "pages/notice/webview",
+    "pages/main/addAffair",
+    "pages/affair/affair",
+    "pages/affair/index",
+    "pages/main/addFamily",
+    "pages/register/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "慧生活流控管家",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "位置签到"
+    }
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "mainpage": "/pages/main/index",
+    "warnpage": "/pages/warn/index",
+    "noticepage": "/pages/notice/index",
+    "settingpage": "/pages/setting/index",
+    "messagepage": "/pages/affair/index"
+  },
+  "sitemapLocation": "sitemap.json"
+}
