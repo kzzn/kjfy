@@ -18,12 +18,12 @@
     业主     账号：15560793098   密码：  123456<br/>
 
 ### 思维导图
-![Image text](https://raw.githubusercontent.com/kzzn/kjfy/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.jpg)
+![思维导图](https://raw.githubusercontent.com/kzzn/kjfy/master/demoimgs/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.jpg)
 ### 流程图
-![Image text](https://github.com/kzzn/kjfy/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![流程图](https://github.com/kzzn/kjfy/blob/master/demoimgs/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ### 微信小程序二维码
-![Image text](https://github.com/kzzn/kjfy/blob/master/wxcode.jpg)
+![微信小程序二维码](https://github.com/kzzn/kjfy/blob/master/demoimgs/wxcode.jpg)
 ### 支付宝小程序二维码
-![Image text](https://github.com/kzzn/kjfy/blob/master/alqrcode.jpg)
+![支付宝小程序二维码](https://github.com/kzzn/kjfy/blob/master/demoimgs/alqrcode.jpg)
 
 
