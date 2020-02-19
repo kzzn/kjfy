@@ -24,17 +24,17 @@
 ### 微信小程序二维码
 <img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/wxcode.jpg" width="180px"/>
 ### 支付宝小程序二维码
-![支付宝小程序二维码](<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/alqrcode.jpg" style="width:180px" />)
+<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/alqrcode.jpg" style="width:180px" />
 
 
 ### 程序展示
 #### 支付宝小程序系统展示
-![支付宝小程序登录](https://github.com/kzzn/kjfy/blob/master/demoimgs/al/login.jpg)
-![支付宝小程序主页](https://github.com/kzzn/kjfy/blob/master/demoimgs/al/main.jpg)
-![支付宝小程序楼层](https://github.com/kzzn/kjfy/blob/master/demoimgs/al/floor.jpg)
-![支付宝小程序设置](https://github.com/kzzn/kjfy/blob/master/demoimgs/al/me.jpg)
+<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/al/login.jpg" width="180px"/>
+<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/al/main.jpg" width="180px"/>
+<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/al/floor.jpg" width="180px"/>
+<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/al/me.jpg" width="180px"/>
 #### 微信小程序系统展示
-![微信小程序登录](https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/login.jpg)
-![微信小程序主页](https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/main.jpg)
-![微信小程序家庭成员](https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/family.jpg)
-![微信小程序注册](https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/register.jpg)
+<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/login.jpg" width="180px"/>
+<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/main.jpg" width="180px"/>
+<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/family.jpg" width="180px"/>
+<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/register.jpg" width="180px"/>
