@@ -24,7 +24,7 @@
 ### 微信小程序二维码
 <img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/wxcode.jpg" width="180px"/>
 ### 支付宝小程序二维码
-<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/alqrcode.jpg" style="width:180px" />
+<img src="https://github.com/kzzn/kjfy/blob/master/demoimgs/alqrcode.jpg" width="180px" />
 
 
 ### 程序展示
