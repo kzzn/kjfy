@@ -29,12 +29,12 @@
 
 ### 程序展示
 #### 支付宝小程序系统展示
-![支付宝小程序二维码](https://github.com/kzzn/kjfy/blob/master/demoimgs/al/login.jpg)
-![支付宝小程序二维码](https://github.com/kzzn/kjfy/blob/master/demoimgs/al/main.jpg)
-![支付宝小程序二维码](https://github.com/kzzn/kjfy/blob/master/demoimgs/al/floor.jpg)
-![支付宝小程序二维码](https://github.com/kzzn/kjfy/blob/master/demoimgs/al/me.jpg)
+![支付宝小程序登录](https://github.com/kzzn/kjfy/blob/master/demoimgs/al/login.jpg)
+![支付宝小程序主页](https://github.com/kzzn/kjfy/blob/master/demoimgs/al/main.jpg)
+![支付宝小程序楼层](https://github.com/kzzn/kjfy/blob/master/demoimgs/al/floor.jpg)
+![支付宝小程序设置](https://github.com/kzzn/kjfy/blob/master/demoimgs/al/me.jpg)
 #### 微信小程序系统展示
-![支付宝小程序二维码](https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/login.jpg)
-![支付宝小程序二维码](https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/main.jpg)
-![支付宝小程序二维码](https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/family.jpg)
-![支付宝小程序二维码](https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/register.jpg)
+![微信小程序登录](https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/login.jpg)
+![微信小程序主页](https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/main.jpg)
+![微信小程序家庭成员](https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/family.jpg)
+![微信小程序注册](https://github.com/kzzn/kjfy/blob/master/demoimgs/wx/register.jpg)
